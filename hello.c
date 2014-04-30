@@ -10,7 +10,7 @@ int main( int argc, char ** argv )
    int i;
    for( i = 0; i < 10; i++ )
 #endif
-      puts( "Hallo World xxx!" );
+      XXX( "Michi ist toll ! :o" );
 
    return 0;
 }
